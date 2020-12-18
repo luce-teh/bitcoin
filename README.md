@@ -1,2 +1,2 @@
-Investigación de valores # bitcoin
+# bitcoin
 Valor
